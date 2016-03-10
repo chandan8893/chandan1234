@@ -11,7 +11,11 @@ subject line
 what happened
 
 [ticket: X]
-# Please enter the commit message for your changes. Lines starting
+# P
+~
+~
+".git/COMMIT_EDITMSG" 14L, 297C
+If your team has a commit-messlease enter the commit message for your changes. Lines starting
 # with '#' will be ignored, and an empty message aborts the commit.
 # On branch master
 # Changes to be committed:
@@ -19,7 +23,15 @@ what happened
 #
 # modified:   lib/test.rb
 #
+[ticket: X]
+# P
 ~
 ~
 ".git/COMMIT_EDITMSG" 14L, 297C
-If your team has a commit-mess
+If your team has a commit-messlease enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD &lt;file&gt;..." to unstage)
+#
+# modified:   lib/test.rb
